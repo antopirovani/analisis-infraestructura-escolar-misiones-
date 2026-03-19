@@ -70,6 +70,8 @@ Algunos de los problemas identificados:
 - Diccionario de datos
 - Lista de requerimientos del nuevo sistema
 
+## Link a trabajo completo: 
+- https://drive.google.com/file/d/14hbt2RnAapoRECn40hdiO5PHK9LzT1r_/view?usp=sharing 
 ---
 
 > *Proyecto académico — Universidad Gastón Dachary, Posadas, Misiones, 2024.*
