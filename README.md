@@ -1,10 +1,9 @@
 # Análisis del Sistema de Información
-### Dirección de Infraestructura Escolar — USCEPP, Ministerio de Educación, Ciencia y Tecnología de Misiones
+### Dirección de Infraestructura Escolar de la Provincia de Misiones
 
 > Trabajo Práctico Integrador · Materia: Análisis de Sistemas  
 > Universidad Gastón Dachary · 2024  
 > Grupo N°2 — Bit Busters · 10 integrantes  
-> Docentes tutores: Ing. Edgardo A. Belloni e Ing. Fernando J. Amatte
 
 ---
 
